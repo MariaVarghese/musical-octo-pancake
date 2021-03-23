@@ -1,7 +1,3 @@
 Hi I'm Developer 1!!
-<<<<<<< HEAD
-Nice to meet you
-I'm Developer 2!!
-=======
 Nice to meet you, May I know who you are?
->>>>>>> 1b6229aae5025f0d23ceb034cfed3b860d20cf94
+I'm Developer 2!!
